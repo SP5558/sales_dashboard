@@ -1,12 +1,5 @@
 # 🌍 Global Sales Dashboard – Power BI Project
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SP5558/Sales-Dashboard-Using-Power-BI/main/Sales%20Dashboard.png" width="100%" alt="Global Sales Dashboard">
-</p>
-<p align="center">
-Interactive Power BI Dashboard for Global Sales Performance Analysis
-</p>
-
 ## 📌 Project Overview
 The **Global Sales Dashboard** is an interactive Business Intelligence project built using **Power BI** to analyze sales performance across different regions, customer segments, products, and markets.
 The dashboard converts raw sales data into meaningful insights through ETL processing, KPI tracking, and interactive visualizations to support data-driven decision-making.
