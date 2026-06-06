@@ -2,10 +2,7 @@
 
 ## 📌 Project Overview
 The **Global Sales Dashboard** is an interactive Business Intelligence project developed using **Power BI** to analyze sales performance across regions, customers, products, and markets.
-
 This dashboard transforms raw business data into meaningful insights using ETL processes, KPI tracking, and interactive visualizations to support data-driven decision-making.
-
----
 
 ## 🎯 Project Objectives
 ✔ Analyze overall global sales performance  
@@ -15,8 +12,6 @@ This dashboard transforms raw business data into meaningful insights using ETL p
 ✔ Understand customer segmentation trends  
 ✔ Generate actionable business insights  
 
----
-
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI  
 - Power Query (ETL)  
@@ -25,12 +20,9 @@ This dashboard transforms raw business data into meaningful insights using ETL p
 - Data Modeling  
 - Data Visualization  
 
----
-
 ## 📂 Dataset Information
 
 **Dataset:** Global Super Store Sales Data
-
 ### Dataset Includes:
 - Order Information  
 - Customer Details  
@@ -40,10 +32,7 @@ This dashboard transforms raw business data into meaningful insights using ETL p
 - Quantity Sold  
 - Shipping Data  
 
----
-
 ## ⚙️ Data Preparation Process
-
 ### ETL Process
 ✔ Data Extraction  
 ✔ Data Cleaning  
@@ -56,10 +45,7 @@ This dashboard transforms raw business data into meaningful insights using ETL p
 ✔ Dashboard Design  
 ✔ Interactive Report Creation  
 
----
-
 ## 📊 Dashboard Features
-
 ### KPI Cards
 💰 **Total Sales:** $12.64M  
 📦 **Quantity Sold:** 178K  
@@ -75,10 +61,7 @@ This dashboard transforms raw business data into meaningful insights using ETL p
 - Top Loss Products  
 - Year-wise Filtering  
 
----
-
 ## 📈 Key Insights
-
 - Generated **$12.64M+ Total Sales**
 - Consumer segment contributed the highest sales
 - Asia Pacific emerged as the leading market
@@ -86,16 +69,13 @@ This dashboard transforms raw business data into meaningful insights using ETL p
 - Evaluated loss-generating products
 - Analyzed customer purchase patterns
 
----
-
 ## 🔍 Business Questions Answered
-
 - Which market generated the highest revenue?
 - Which products delivered maximum profit?
 - Which products caused losses?
 - Who are the top customers?
 - How does sales vary across regions?
-
+  
 ---
 
 # 📷 Dashboard Preview
@@ -107,7 +87,6 @@ This dashboard transforms raw business data into meaningful insights using ETL p
 ---
 
 ## 🚀 Skills Demonstrated
-
 - Data Cleaning  
 - Data Transformation  
 - Power Query  
@@ -118,10 +97,7 @@ This dashboard transforms raw business data into meaningful insights using ETL p
 - Data Visualization  
 - Analytical Thinking  
 
----
-
 ## 📁 Repository Structure
-
 ```bash
 Sales-Dashboard-Using-Power-BI/
 │
@@ -130,21 +106,14 @@ Sales-Dashboard-Using-Power-BI/
 ├── dataset.xlsx
 └── README.md
 ```
-
----
-
 ## 📊 Data Source
-
 Dataset Source:  
 https://www.kaggle.com/datasets/tahir1413/global-superstore-2016
-
----
 
 ## 👨‍💻 Author
 
 **Sagar Patil**  
 🎓 MCA Graduate | Data Analyst | Power BI | SQL | Python | Excel  
-
 📧 Email: sagarpatilsagar2002@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sagarpatil-data-analyst  
 🔗 GitHub: https://github.com/SP5558  
